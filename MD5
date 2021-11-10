@@ -1,0 +1,11 @@
+2c497eae49435f6aea8e7808bb3b04fd *DESCRIPTION
+84b7ad0bedaa281b1423ea966eec36c1 *NAMESPACE
+72407371e724322c4809fe5b7d8ea230 *NEWS.md
+0eae53e4eeffc0348b403381cf7db0e3 *R/BRINDA.R
+68c7e12ab35f830492e73d5cafdee065 *R/sample_data.R
+a8b7d2807bd1a28d26c35dfcc1b6c31c *README.md
+1d76bb0946e3df7b122b98b68ed61faa *data/sample_data.RData
+0d038a9ee1a4644dce42f75d25427a7e *man/BRINDA.Rd
+7c995c71a06e8c149088a6e8ec006d68 *man/sample_data.Rd
+8e704fa6a1734e47e3df5539942ad823 *tests/testthat.R
+a67be798816269d2e7914efcc804d8bd *tests/testthat/test_each_function.R
